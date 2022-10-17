@@ -12,3 +12,23 @@
     width: 150px;
     height: 150px;
 }
+
+.write_by{
+    color: grey;
+}
+
+.Text_light_blue{
+    color: lightblue;
+}
+
+.tim_img{
+    padding: 10;
+}
+
+.text_bottom_jim{
+    font-size: 10px;
+}
+
+.text_yellow_background{
+    background-color: yellow;
+}
