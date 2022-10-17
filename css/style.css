@@ -6,12 +6,13 @@
 
 #Background_Logo{
    background-image: url('../img/pattern.png');
-   background-size: cover;
+   background-color: lightskyblue;
 }
 
 .Logo{
     width: 150px;
     height: 150px;
+    padding-top: 50px;
     
 }
 
