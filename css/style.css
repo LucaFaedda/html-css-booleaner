@@ -49,13 +49,16 @@
     padding-bottom: 20px;
 }
 
+
 .light_blue_background{
     background-color: aquamarine;
+    
 }
 
 .prova{
-    padding: 1px 80px 1px 80px;
-    
+    padding-right: 100px;
+    border-spacing: 0px;
+        
 }
 th{
     color: white;
