@@ -3,3 +3,12 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+#Background_Logo{
+   background-image: url(C:\Users\thefa\OneDrive\Desktop\Boolean\Esercizi\html-css-booleaner\img\pattern.png);
+}
+
+.Logo{
+    width: 150px;
+    height: 150px;
+}
