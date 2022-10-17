@@ -52,6 +52,11 @@
 .light_blue_background{
     background-color: aquamarine;
 }
+
+.prova{
+    padding: 1px 80px 1px 80px;
+    
+}
 th{
     color: white;
     background-color: rgb(0, 140, 255);
