@@ -22,13 +22,23 @@
 }
 
 .tim_img{
-    padding: 10;
+    padding-top: 10px;
 }
 
 .text_bottom_jim{
     font-size: 10px;
 }
 
+.first_text{
+    padding: 20px 0 20px 0;
+
+}
+
 .text_yellow_background{
     background-color: yellow;
+}
+
+.unorder_list{
+    padding-left: 20px;
+    padding-bottom: 20px;
 }
