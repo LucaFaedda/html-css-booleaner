@@ -76,11 +76,19 @@ th{
     background-color: aquamarine;
     
 }
-.monitor{
+
+.immagine{
     background-size: cover;
     height: 200px;
     width: 200px;
-    background-image: url('../img/monitor.jpg');
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 10px 10px 10px;
+}
+
+
+.monitor{
+     background-image: url('../img/monitor.jpg');
 }
 
 .white_text{
@@ -89,7 +97,4 @@ th{
 
 .grafico{
     background-image: url('../img/graph.jpg');
-    background-size: cover;
-    height: 200px;
-    width: 200px;
 }
